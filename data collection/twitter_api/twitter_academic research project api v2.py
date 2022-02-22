@@ -49,11 +49,11 @@ createVar = locals()
 
 """
 
-consumer_key = '6US9ar8fUELd82s3QyXCvJtou'  
-consumer_secret = 'MARHHWlMKbmKn5qRKeRpz936g40jEk6iTGxMQmTZc6vDumGvHw'  
-access_token = '4876272161-1DbKoux957KZA3TXJCGCvmZgNxDDZmL6izPvIeP'  
-access_token_secret = 'musqMaYQfvDk8ppEtYe35OFjUS7ETJ2WOwJlqhmAQgtn9'  
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAB1sWQEAAAAABurcSFKai%2BZEAjHH7RADmURqevY%3D15fOlvJhJYm7L5q0aZlc09i2VqhUvZjaHbU9NzjjC1Xi5GLdFA'
+consumer_key = ''  
+consumer_secret = ''  
+access_token = ''  
+access_token_secret = ''  
+bearer_token = ''
 
 
 
