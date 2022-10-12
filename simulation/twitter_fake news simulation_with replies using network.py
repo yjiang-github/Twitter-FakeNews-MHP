@@ -7,7 +7,7 @@ Created on Tue Feb  8 16:27:44 2022
 
 
 """
---- this file is the version6 of simulation in scenario4 using the overall internsity---
+--- this file is the version6 of simulation which uses the overall internsity---
 --- specifically, this approach will store all prior values into numpy such that each time the process
     will only calculate the values of current event for all users ---
 
