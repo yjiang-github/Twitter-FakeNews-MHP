@@ -1,4 +1,4 @@
-# Twitter Fake News Modeling through Multivariate Hawkes Point Processes
+# Twitter Fake News Dissemination Modeling through Multivariate Hawkes Point Processes
 
 
 This project aims on modeling the fake news dissemination process on Twitter, which includes
